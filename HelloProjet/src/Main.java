@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("ФуКУЫЇ");
         System.out.println("пепепепепед­РД");
+        System.out.println("??");
     }
 }
